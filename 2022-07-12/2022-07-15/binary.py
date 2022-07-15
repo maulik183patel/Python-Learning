@@ -5,3 +5,4 @@ while num>0:
     num=int(num//2)
     print(x,end=" ")
     i=i+1
+    print(num)
