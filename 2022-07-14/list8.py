@@ -3,4 +3,3 @@ sub_list = ["h", "i", "j"]
 #print(list1[2][1][2])
 list1[2][1][2].extend(sub_list)
 print(list1)
-patel
